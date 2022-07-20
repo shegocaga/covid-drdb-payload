@@ -1,0 +1,8 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Uraki22b,S309,nc929,Supplementary Table 1,Virus isolate,NT50,384.52,1,50000,1,NULL,2022-07-20
+Uraki22b,REGN10987,nc929,Supplementary Table 1,Virus isolate,NT50,50000,1,50000,1,NULL,2022-07-20
+Uraki22b,REGN10933,nc929,Supplementary Table 1,Virus isolate,NT50,11998.94,1,50000,1,NULL,2022-07-20
+Uraki22b,COV2_2196,nc929,Supplementary Table 1,Virus isolate,NT50,880.47,1,50000,1,NULL,2022-07-20
+Uraki22b,COV2_2130,nc929,Supplementary Table 1,Virus isolate,NT50,13558.20,1,50000,1,NULL,2022-07-20
+Uraki22b,REGN10987_REGN10933,nc929,Supplementary Table 1,Virus isolate,NT50,10000,1,10000,1,NULL,2022-07-20
+Uraki22b,COV2_2196_COV2_2130,nc929,Supplementary Table 1,Virus isolate,NT50,1374.90,1,10000,1,NULL,2022-07-20
